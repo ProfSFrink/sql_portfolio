@@ -1,4 +1,4 @@
-# __SQL# Projects Portfolio__
+# __SQL Projects Portfolio__
 
 This is a collection of the SQL projects that I have as part of my portfolio thus far, again these vary from smaller code snippets to larger programs. They where developed in Microsoft SQL Server Managament Studio.  
 
